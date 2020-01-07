@@ -1,0 +1,10 @@
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csprojAssemblyReference.cache
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.Form1.resources
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.Properties.Resources.resources
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csproj.GenerateResource.cache
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.exe.config
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.exe
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.exe
+C:\Users\Furkan\Source\Repos\AprioriAlgorithm2\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
